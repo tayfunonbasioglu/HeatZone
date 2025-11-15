@@ -28,6 +28,8 @@ SSL using
 
 noVNC and Multi noVNC added HMI Weintek MT8071IE
 
+End-to-End Platform for Industry 4.0
+
 Tayfun ONBAŞIOĞLU ta.onbasioglu@gmail.com İZMİR /TURKEY
 
 0545 5936190

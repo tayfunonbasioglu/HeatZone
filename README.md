@@ -22,7 +22,7 @@ Node-red İntegreted in dashboard
 
 Mysql Database Editor
 
-Woeking Cloud or Local PC
+Working Cloud or Local PC
 
 SSL using
 

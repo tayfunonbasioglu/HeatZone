@@ -33,3 +33,6 @@ End-to-End Platform for Industry 4.0
 Tayfun ONBAŞIOĞLU ta.onbasioglu@gmail.com İZMİR /TURKEY
 
 0545 5936190
+
+
+https://github.com/tayfunonbasioglu/HeatZone/blob/main/1%20node%20js%20ejs%20login.jpg?raw=true
